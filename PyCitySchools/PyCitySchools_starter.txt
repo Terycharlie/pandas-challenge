@@ -1,0 +1,4 @@
+ Schools with less than 500 students are generally comparable to schools that have less than 2000 students. 
+The schools with less than 2000 students have the highest overall passing rate of 90.62% and the large schools 
+have a very low overall passing rate of 58.28% 
+Charter schools perform better than the district schools in all areas
